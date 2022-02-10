@@ -1,0 +1,9 @@
+The WeWork Network Vulnerabilities
+
+In 2010, WeWork opened in Manhattan for everyone. They had an environment that was collaborative. It offered many features from printers to meeting spaces.
+However, they didn't plan well, and it led to data breaches for over 200 companies and 658 unique and separate devices. The motivations for these breaches and attacks
+was due to the importance of who what using this product. Freelancers and Fortune 500 companies were among the clients of WeWork. Although their super fast internet speed was 
+something that they were proud of, the problem lied in the fact that everyone worked off of the same WiFi. VLANs or VPNs were either reserved for high-paying clients or not 
+offered at all. Because there were no data safety precautions that took place, there was free range to all of the users data in their system. This was a huge problem for the 
+security of their users and clients. A well-built network will have firewalls in place, data encryption, and utilize VLANs to partition your network by device type. I can't
+find any information what they did to fix the data breach issues, but from what I see on their company website, they have many respected clients that still use their product.
